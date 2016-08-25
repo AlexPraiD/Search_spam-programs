@@ -1,0 +1,31 @@
+object Form2: TForm2
+  Left = 683
+  Top = 208
+  Caption = #1054#1073#1085#1072#1088#1091#1078#1077#1085#1085#1099#1077' '#1089#1086#1074#1087#1072#1076#1077#1085#1080#1103
+  ClientHeight = 262
+  ClientWidth = 504
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesigned
+  PixelsPerInch = 96
+  TextHeight = 13
+  object StringGrid1: TStringGrid
+    Left = 8
+    Top = 8
+    Width = 489
+    Height = 246
+    ColCount = 2
+    DefaultColWidth = 100
+    DefaultRowHeight = 20
+    FixedCols = 0
+    RowCount = 1
+    FixedRows = 0
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing]
+    TabOrder = 0
+  end
+end
